@@ -36,6 +36,8 @@ To run this project, just run the functions at the bottom of code and call "item
 ## Developments 
 It can be achieved more precise results merging both item-based and user-based recommendation by calculating "Weighted Average Recommendation Score". It will be developed on next project that I will do. It can become more likely a recommendation system like Netflix uses. (link below) For now, it is just simple version of item-based recommendation system. 
 
+
+Here you can find more developed version, Hybrid Recommender System:
 https://github.com/Aerospacerr/Hybrid-Recommender-System
 
 
