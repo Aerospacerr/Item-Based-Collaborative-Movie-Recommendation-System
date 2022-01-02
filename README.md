@@ -41,6 +41,7 @@ It can be achieved more precise results merging both item-based and user-based r
 
 Here you can find more developed version, Hybrid Recommender System:
 https://github.com/Aerospacerr/Hybrid-Recommender-System
+(Coming soon)
 
 
 
