@@ -20,7 +20,9 @@ Here, we explore the relationship between the pair of items (the user who bought
 It was first invented and used by Amazon in 1998. Rather than matching the user to similar customers, item-to-item collaborative filtering matches each of the user’s purchased and rated items to similar items, then combines those similar items into a recommendation list.
 
 ## Project info
-Here,we tried to create our own movie database with ratings by using "movies.csv" and "ratings.csv"(link down below)  
+Here,we tried to create our own movie database with ratings by using "movies.csv" and "ratings.csv"(link down below) 
+https://grouplens.org/datasets/movielens/
+
 We calculated a suggestion with calculating the correlation between the entered movie and other movies. Hence we suggest a movie for user by using correlations among them.
 
 ## Technologies
